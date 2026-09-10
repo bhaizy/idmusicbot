@@ -1,3 +1,7 @@
+# Raiway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=907kP9&referralCode=C3Eb1N)
+
 # 🐍 Cobra — Telegram ID Music Userbot
 
 Aapki **apni Telegram ID** se chalega ek powerful **Music Userbot**. Voice chat mein music play karega. Link ya song name do — gaana bajega!
